@@ -1,0 +1,25 @@
+File_Name;Content;Category;Complete_Filename
+003.txt;" Safety Dividend 
+
+
+Since then, Waymo has invited the public to join the first public trial of autonomous vehicles operated by the Waymo Driver and introduced its first fully autonomous vehicles operated by the Waymo Driver on public roads without anyone in the driver’s seat.
+";opportunities;003.txt-opportunities
+002.txt;" Changing Oil Demand 
+
+
+In 2009, Google started the self-driving car project with the goal of driving autonomously over ten uninterrupted 100-mile routes. In 2016, Waymo, an autonomous driving technology company, became a subsidiary of Alphabet, and Google's self-driving project became Waymo.
+";opportunities;002.txt-opportunities
+001.txt;" Infrastructure Transformation 
+
+
+Imagine getting into your car, typing—or, better yet speaking—a location into your vehicle’s interface, then letting it drive you to your destination while you read a book, surf the web, or nap. Self-driving vehicles—the stuff of science fiction since the first roads were paved—are coming, and they’re going to radically change what it’s like to get from point A to point B.
+";opportunities;001.txt-opportunities
+003.txt;"5. Radar Interference
+
+Autonomous cars use lasers and radar for navigation. The lasers are mounted on roof top while the sensors are mounted on the body of the vehicle. The principle of radar works by detecting reflections of radio waves from surrounding objects. When on the road, a car will continuously emit radio frequency waves, which get reflected from the surrounding cars and other objects near the road. The time taken for the reflection is measured to calculate the distance between the car and the object. Appropriate action is then taken based on the radar readings. The principle of radar works by detecting reflections of radio waves from surrounding objects. When on the road, a car will continuously emit radio frequency waves, which get reflected from the surrounding cars and other objects near the road. The time taken for the reflection is measured to calculate the distance between the car and the object. Appropriate action is then taken based on the radar readings. When this technology is used for hundreds of vehicles on the road, will a car be able to distinguish between its own (reflected) signal and the signal (reflected or transmitted) from another vehicle? Even if multiple radio frequencies are available for radar, this frequency range is unlikely to be insufficient for all the vehicles manufactured.";challenges;003.txt-challenges
+002.txt;"4. Accident Liability
+
+The most important aspect of autonomous cars is accidents liability. Who is liable for accidents caused by a self-driving car? In the case of autonomous cars, the software will be the main component that will drive the car and will make all the important decisions. While the initial designs have a person physically placed behind the steering wheel, newer designs showcased by Google, do not have a dashboard and a steering wheel! In such designs, where the car does not have any controls like a steering wheel, a brake pedal, an accelerator pedal, how is the person in the car supposed to control the car in case of an untoward incident? Additionally, due to the nature of autonomous cars, the occupants will mostly be in a relaxed state and may not be paying close attention to the traffic conditions. In situations where their attention is needed, by the time they need to act, it may be too late to avert the situation.";challenges;002.txt-challenges
+001.txt;"3. Traffic conditions
+
+Autonomous cars would have to get onto the road where they would have to drive in all sorts of traffic conditions. They would have to drive with other autonomous cars on the road, and at the same time, there would also be a lot of humans. Wherever humans are involved, there are involved a lot of emotions. Traffic could be highly moderated and self-regulated. But often there are cases where people may be breaking traffic rules. An object may turn up in unexpected conditions. In the case of dense traffic, even the movement of few cms per minute does matter. One can’t wait endlessly for traffic to automatically clear and have some precondition to start moving. If more of such cars on the road are waiting for traffic to get cleared, ultimately that may result in a traffic deadlock.";challenges;001.txt-challenges
