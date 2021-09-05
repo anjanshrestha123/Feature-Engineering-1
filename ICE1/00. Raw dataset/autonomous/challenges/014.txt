@@ -1,0 +1,3 @@
+4. Regulation
+
+Sufficient standards and regulations for a whole autonomous system do not exist - in any industry. Current standards for the safety of existing vehicles assume the presence of a human driver to take over in an emergency. For self-driving cars, there are emerging regulations for particular functions, such as for automated lane keeping systems. There is also an international standard for autonomous systems that includes autonomous vehicles, which sets relevant requirements but does not solve the problems of sensors, machine learning and operational learning introduced above - although it may in time.Without recognised regulations and standards, no self-driving car, whether considered to be safe or not, will make it on to the open road.

@@ -1,0 +1,3 @@
+3. The open road
+
+Once an autonomous car is on the road it will continue to learn. It will drive on new roads, detect objects it hasn’t come across in its training, and be subject to software updates. How can we ensure that the system continues to be just as safe as its previous version? We need to be able to show that any new learning is safe and that the system doesn’t forget previously safe behaviours, something the industry has yet to reach agreement on.
